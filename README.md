@@ -233,9 +233,9 @@ The Superstore should pivot from a broad, discount-driven sales strategy to a fo
 ## Author
 
 GEORGE ONYANGO OCHIENG
-primary email: georgebabji1220@gmail.com
-alternative email: georgeonyango1220@gmail.com
-whatsapp: https://wa.me/254111866769
-call: +2540115136359
-linkedln: https://www.linkedin.com/in/george-onyango-5a5906360/
+primary email: georgebabji1220@gmail.com 
+alternative email: georgeonyango1220@gmail.com 
+whatsapp: https://wa.me/254111866769 
+call: +2540115136359 linkedln: https://www.linkedin.com/in/george-onyango-5a5906360/ 
 upwork: https://www.upwork.com/freelancers/~01ea729f5447c9e73b
+
